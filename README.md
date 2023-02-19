@@ -7,20 +7,29 @@
 |Qiita|[shuki](https://qiita.com/shuki)|
 
 ## スキル
-### 言語
+### 得意な言語
 - Python
-- TypeScript
+- TypeScript(JavaScript)
 - Java
 - C
 - アセンブリ言語
-- 英語
+- (英語)
 
-### フレームワーク
+### 経験のある言語
+- Go
+- PHP
+- SQL
+- MATLAB
+- OCaml
+
+
+### フレームワーク / ライブラリ
 - Next.js
 - Numpy, Pandas, Matplotlib などのデータ分析ライブラリ
+- スクレイピングに用いるライブラリなど
 
 ### その他
-- クリエイター団体IDEA代表
+- クリエイター団体の代表
 - Shopify
 - WordPress
 - SEOやSNS運用など
@@ -70,4 +79,4 @@ Web会議サービスのデータ分析ツールを開発していました。
 
 ---
 ### 2017/4 - 2020/3: 慶應義塾高校
-卒業論文: 高校物理「原子」分野と量子力学の差異
+卒業論文: 量子力学と高校「原子」分野の差異
