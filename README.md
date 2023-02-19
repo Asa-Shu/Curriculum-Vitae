@@ -21,6 +21,7 @@
 - SQL
 - MATLAB
 - OCaml
+- Lua
 
 
 ### フレームワーク / ライブラリ
