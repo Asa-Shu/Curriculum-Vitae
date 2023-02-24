@@ -23,12 +23,14 @@
 - MATLAB
 - OCaml
 - Lua
+- Dart
 
 
 ### フレームワーク / ライブラリ
 - Next.js
 - Numpy, Pandas, Matplotlib などのデータ分析ライブラリ
 - スクレイピングに用いるライブラリなど
+- Flutter
 
 ### その他
 - クリエイター団体の代表
