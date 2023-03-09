@@ -35,6 +35,8 @@
 ### その他
 - クリエイター団体代表
 - Shopify
+- Docker
+- Netlify
 - WordPress
 - セキュリティ
 - 機械学習
