@@ -28,7 +28,7 @@
 ### フレームワーク / ライブラリ
 - Next.js
 - Numpy, Pandas, Matplotlib などのデータ分析ライブラリ
-- スクレイピングに用いるライブラリなど
+- Seleniumなどのスクレイピングに用いるライブラリ
 - Flutter
 
 ### その他
@@ -43,7 +43,7 @@
 - RPAシステムの構築
 - 英語（日常会話レベル）
 - デザインツール（Canva, XD, Figma）
-- 業務用ツール（Slack, Notion, Miro）
+- 業務用ツール（Slack, Notion, Miro, Microsoft Office, Google Workspace）
 
 ## 強み
 - デザインからデータ分析、システム開発まで幅広い経験あり
