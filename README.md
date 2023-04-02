@@ -35,6 +35,7 @@
 - クリエイター団体代表
 - Shopify
 - Docker
+- Firebase
 - Netlify
 - WordPress
 - セキュリティ
