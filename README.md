@@ -27,7 +27,7 @@
 
 
 ### フレームワーク / ライブラリ
-- Next.js
+- React / Next.js
 - Numpy, Pandas, Matplotlib などのデータ分析ライブラリ
 - Seleniumなどのスクレイピングに用いるライブラリ
 - Flutter
