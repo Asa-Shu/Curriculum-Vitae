@@ -4,6 +4,7 @@
 |key|value|
 |---|-----|
 |Name|浅賀衆生(Shuki Asaga)|
+|大学|早稲田大学基幹理工学部情報理工学科|
 |Qiita|[shuki](https://qiita.com/shuki)|
 
 ## スキル
