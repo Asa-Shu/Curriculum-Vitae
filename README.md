@@ -47,6 +47,7 @@
 - デザインツール（Canva, XD, Figma）
 - 業務用ツール（Slack, Notion, Miro, Microsoft Office, Google Workspace）
 - UML（astah*）
+- 開発手法（アジャイル）
 
 ## 強み
 - デザインからデータ分析、システム開発まで幅広い経験あり
