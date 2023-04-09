@@ -34,20 +34,20 @@
 
 ### その他
 - クリエイター団体代表
-- Shopify
 - Docker
 - Firebase
 - Netlify
-- WordPress
 - セキュリティ
 - 機械学習
 - SEOやSNS運用など
 - RPAシステムの構築
 - 英語（日常会話レベル）
+- CMS（WordPress, Shopify）
 - デザインツール（Canva, XD, Figma）
 - 業務用ツール（Slack, Notion, Miro, Microsoft Office, Google Workspace）
 - UML（astah*）
 - 開発手法（アジャイル）
+- 基本的なアルゴリズム
 
 ## 強み
 - デザインからデータ分析、システム開発まで幅広い経験あり
