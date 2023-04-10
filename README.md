@@ -33,19 +33,20 @@
 - Flutter
 
 ### その他
-- Docker
-- Firebase
-- Netlify
+
+- 仮想環境（Docker）
+- サーバーレス（Firebase）
+- CI / CD（Netlify, GitHub Actions）
+- CMS（WordPress, Shopify）
+- デザインツール（Canva, XD, Figma）
+- 業務用ツール（Slack, Notion, Miro, Microsoft Office, Google Workspace）
+- 開発手法（アジャイル）
+- UML（astah*）
+- 英語（日常会話レベル）
 - セキュリティ
 - 機械学習
 - SEOやSNS運用など
 - RPAシステムの構築
-- 英語（日常会話レベル）
-- CMS（WordPress, Shopify）
-- デザインツール（Canva, XD, Figma）
-- 業務用ツール（Slack, Notion, Miro, Microsoft Office, Google Workspace）
-- UML（astah*）
-- 開発手法（アジャイル）
 - 基本的なアルゴリズム
 - コンピュータアーキテクチャ
 
@@ -65,7 +66,7 @@
 プログラマーやデザイナーを募り、創作活動を行っております。団体規模: 50人程度
 
 ---
-### 2022/11 - 現在: 大手IT企業 インターン
+### 2022/11 - 現在: アンカー・ジャパン株式会社 インターン
 #### Webフロントエンド / Shopify
 
 自社ブランドサイトの改善・保守を行っております。
