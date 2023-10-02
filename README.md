@@ -14,15 +14,16 @@
 - Java
 - C
 - アセンブリ言語
-
-### 経験のある言語（軽く書いたことがある程度）
 - Ruby
 - Go
+- SQL
+- OCaml
+
+### 経験のある言語（軽く書いたことがある程度）
+
 - C++
 - PHP
-- SQL
 - MATLAB
-- OCaml
 - Lua
 - Dart
 
@@ -30,14 +31,14 @@
 ### フレームワーク / ライブラリ
 - React / Next.js
 - Numpy, Pandas, Matplotlib などのデータ分析ライブラリ
-- Seleniumなどのスクレイピングに用いるライブラリ
+- Selenium　などのスクレイピングに用いるライブラリ
 - Flutter
 - Spring Boot
 - Rails
 
 ### その他
 
-- 仮想環境（Docker）
+- Docker
 - サーバーレス（Firebase, Supabase）
 - CI / CD（Netlify, GitHub Actions）
 - CMS（WordPress, Shopify）
@@ -47,7 +48,7 @@
 - 英語（日常会話レベル）
 - セキュリティ
 - CTF
-- 機械学習(Transformer)
+- 機械学習
 - SEOやSNS運用など
 - RPAシステムの構築
 - アルゴリズム
@@ -69,7 +70,7 @@
 
 ---
 
-### 2022/10 - 現在: 株式会社Ubiq
+### 2022/10 - 2023/9: 株式会社Ubiq
 #### Webフロントエンド & バックエンド / React(Next.js) & Firebase
 - 技術選定
 - 要件定義・基本設計・詳細設計
