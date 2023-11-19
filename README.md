@@ -39,7 +39,7 @@
 ### その他
 
 - Docker
-- サーバーレス（Firebase, Supabase）
+- クラウド（Firebase, Supabase）
 - CI / CD（Netlify, GitHub Actions）
 - CMS（WordPress, Shopify）
 - デザインツール（Canva, XD, Figma）
