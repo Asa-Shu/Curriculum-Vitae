@@ -2,7 +2,7 @@
 - 早稲田大学基幹理工学部情報理工学科4年
 - 森研究室（サイバーセキュリティ）
 
-[Qiita](https://qiita.com/shuki)
+[Qiita](https://qiita.com/re_shu)
 
 [X](https://x.com/Ashupher)
 
