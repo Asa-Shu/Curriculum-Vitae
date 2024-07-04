@@ -1,37 +1,22 @@
-# 経歴書
+# Shuki Asaga
+- 早稲田大学基幹理工学部情報理工学科4年
+- 森研究室（サイバーセキュリティ）
 
-## 基本情報
-|key|value|
-|---|-----|
-|Name|浅賀衆生(Shuki Asaga)|
-|大学|早稲田大学基幹理工学部情報理工学科|
-|Qiita|[shuki](https://qiita.com/shuki)|
+[Qiita](https://qiita.com/shuki)
+
+[X](https://x.com/Ashupher)
 
 ## スキル
-### 得意な言語
-- Python
-- TypeScript(JavaScript)
-- Java
-- C
-- アセンブリ言語
-- Ruby
-- Go
-- SQL
-- OCaml
+### 使う頻度の高い言語
+Python, TypeScript(JavaScript), Java, C, アセンブリ言語, Ruby, Go, SQL, OCaml
 
-### 経験のある言語（軽く書いたことがある程度）
-
-- C++
-- PHP
-- MATLAB
-- Lua
-- Dart
-
+### 軽く書いたことがある程度の言語
+C++, PHP, MATLAB, Lua, Dart, UML（astah*）
 
 ### フレームワーク / ライブラリ
 - React / Next.js
-- Numpy, Pandas, Matplotlib などのデータ分析ライブラリ
-- Selenium, BeautifulSoup4, Requests などのスクレイピングに用いるライブラリ
+- Numpy, Pandas, Matplotlib などデータ分析系
+- Selenium, BeautifulSoup4, Requests などスクレイピング系
 - Flutter
 - Spring Boot
 - Rails
@@ -45,7 +30,6 @@
 - CMS（WordPress, Shopify）
 - デザインツール（Canva, XD, Figma）
 - 業務用ツール（Slack, Notion, Miro, Microsoft Office, Google Workspace）
-- UML（astah*）
 - 英語
 - セキュリティ
 - CTF
@@ -62,7 +46,6 @@
 ## 経歴
 
 ### 2024/2 - 現在 : 株式会社Zera 代表
-- 自社サービス開発
 - 受託開発
 
 ---
@@ -84,8 +67,8 @@
 
 ---
 
-### 2022/12 - 現在 : クリエイター団体 [IDEA](https://idea-net.site/) 代表
-プログラマーやデザイナーを募り、創作活動を行っております。団体規模: 150人以上
+### 2022/12 - 現在 : [クリエイター団体 IDEA](https://idea-net.site/) 代表
+プログラマーやデザイナーを募り、創作活動を行っております。団体規模: 150名以上
 
 ---
 
@@ -96,7 +79,7 @@
 - デザイン
 - 実装・テスト・デプロイ
 
-クリエイティブ投稿SNSの開発。
+クリエイター向けSNSの開発。
 
 ---
 ### 2022/11 - 2023/7: アンカー・ジャパン株式会社 インターン
@@ -117,7 +100,7 @@ Web会議サービスのデータ分析ツールを開発。
 
 2023前期テーマ: 機械学習によるサイバー攻撃の検知
 
-2023後期テーマ: LLM Honeypots
+2023後期テーマ: LLM × Honeypots
 
 #### 情報理工学科(2022/4 - 現在)
 情報科学を専攻。
@@ -127,12 +110,21 @@ Web会議サービスのデータ分析ツールを開発。
 ### 2017/4 - 2020/3: 慶應義塾高校
 卒業論文: 量子力学と高校物理「原子」分野の差異
 
+---
+### その他
+フリーランスでbotの開発など
+
 ## 資格
 - 応用情報技術者（令和5年度春期試験）
 - 情報処理安全確保支援士（令和6年度春期試験）
+
+## 登壇 / 主催
+### [IDEA meetup powered by なるセミEE](https://idea-net.site/events/narusemi-meetup)
+GMO のデベロッパーエキスパート[成瀬氏](https://x.com/nrslib)にご登壇いただきました
+
 
 
 ## その他の実績
 
 ### 早稲田大学 基幹理工学部 情報理工学科プログラミングコンテスト入賞
-所属学科の同期全体で行われる競技プログラミングの大会で表彰されました。
+所属学科の競技プログラミングコンテストで表彰されました。
